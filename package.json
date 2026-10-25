@@ -1,0 +1,14 @@
+{
+  "name": "rope-untangle-embroidery",
+  "version": "1.0.0",
+  "description": "Cozy Wooden Ring Rope Untangle Puzzle Game",
+  "main": "www/index.html",
+  "scripts": {
+    "build": "echo 'Static build ready'"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.1.2",
+    "@capacitor/cli": "6.1.2",
+    "@capacitor/core": "6.1.2"
+  }
+}
