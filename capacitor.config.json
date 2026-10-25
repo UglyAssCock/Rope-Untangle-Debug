@@ -1,0 +1,6 @@
+{
+  "appId": "com.cozycraft.ropeuntangle",
+  "appName": "Rope Untangle",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
